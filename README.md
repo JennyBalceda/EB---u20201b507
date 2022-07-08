@@ -24,4 +24,4 @@ Repositorio del código del EB de IHC
 [Pexels](https://www.pexels.com/), [Google Fonst -  Icons](https://fonts.google.com/) y [Font Awesome](https://fontawesome.com/)
 
 >**Repositorio de Github:**
-[Balceda Jenny -  EB]()
+[Balceda Jenny -  EB](https://github.com/JennyBalceda/EB---u20201b507)
